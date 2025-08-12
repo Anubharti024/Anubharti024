@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
-<img align="right" alt="coding" width="400" height="300" src="./coding-typing.gif">
+<img align="right" alt="coding" width="400" height="250" src="./coding-typing.gif">
 - 🌱 I’m currently learning Typescript, React, Tailwind CSS and more...
 
 - 💬 Ask me about **Frontend Development**
